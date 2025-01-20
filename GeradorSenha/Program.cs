@@ -47,7 +47,7 @@ class SecurePasswordGenerator
     {
         const string numeros = "0123456789";
         const string letras = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        const string especiais = "@!#-";
+        const string especiais = "@!#-_*";
 
         string caracteres = numeros;
         if (incluirEspeciais)
