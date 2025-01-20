@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\GeradorSenha.csproj": {}
+    "C:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\GeradorSenha.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\GeradorSenha.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\GeradorSenha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\GeradorSenha.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\GeradorSenha.csproj",
         "projectName": "GeradorSenha",
-        "projectPath": "c:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\GeradorSenha.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\GeradorSenha.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\adri\\Revisao2024\\GeradorSenha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
